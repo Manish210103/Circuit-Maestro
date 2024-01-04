@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1654877795 source:c:\users\manish\onedrive\desktop\package\package\package1\package2.cpp
+	"header.h"
+
+1654967030 c:\users\manish\onedrive\desktop\package\package\package1\header.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<limits>
+	<vector>
+
+1654605529 source:c:\users\manish\onedrive\desktop\package\package\package1\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header1.h"
+	"header2.h"
+	"header.h"
+
+1654605570 c:\users\manish\onedrive\desktop\package\package\package1\header1.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header2.h"
+	"header.h"
+
+1654877618 c:\users\manish\onedrive\desktop\package\package\package1\header2.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header.h"
+
+1654877511 source:c:\users\manish\onedrive\desktop\package\package\package1\package.cpp
+	"header2.h"
+	"header1.h"
+
+1654967030 source:c:\users\manish\onedrive\desktop\package\package\package1\package3.cpp
+	"header1.h"
+
+1655702778 source:c:\users\manish\onedrive\desktop\package\package\cpp main package\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header1.h"
+	"header2.h"
+	"header.h"
+
+1655702402 c:\users\manish\onedrive\desktop\package\package\cpp main package\header1.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header2.h"
+	"header.h"
+
+1655702277 c:\users\manish\onedrive\desktop\package\package\cpp main package\header2.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header.h"
+
+1655702279 c:\users\manish\onedrive\desktop\package\package\cpp main package\header.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<limits>
+	<vector>
+
+1655702750 source:c:\users\manish\onedrive\desktop\package\package\cpp main package\package.cpp
+	"header2.h"
+	"header1.h"
+
+1655702448 source:c:\users\manish\onedrive\desktop\package\package\cpp main package\package2.cpp
+	"header.h"
+
+1655714193 source:c:\users\manish\onedrive\desktop\package\package\cpp main package\package3.cpp
+	"header1.h"
+	<fstream>
+	<stdlib.h>
+
+1655702780 source:c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header1.h"
+	"header2.h"
+	"header.h"
+
+1655702404 c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\header1.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header2.h"
+	"header.h"
+
+1655702278 c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\header2.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<vector>
+	"header.h"
+
+1655702280 c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\header.h
+	<iostream>
+	<math.h>
+	<string>
+	<complex>
+	<limits>
+	<vector>
+
+1655702752 source:c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\package.cpp
+	"header2.h"
+	"header1.h"
+
+1655702450 source:c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\package2.cpp
+	"header.h"
+
+1704298322 source:c:\users\dell\desktop\semester\2nd semester textbooks\package\package\cpp main package\package3.cpp
+	"header1.h"
+	<fstream>
+	<stdlib.h>
+
